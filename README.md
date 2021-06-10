@@ -3,8 +3,10 @@ Use of IoT and AI to predict flash floods and vegetation fires
 ---
 
 ## Problem
+
 Due to global warming, climate change has become more rapid, causing a rising trend of vegetation fires and flash floods in Singapore. In 2019,there were 883 cases of vegetation fires and a significant number of cases of flash floods. As a result of the seriousness of this situation, there could potentially be a lot of damage caused to infrastructure and lives. Hence, to mitigate the impacts of these weather events, it will be helpful for SCDF to be better prepared for these emergencies by implementing solutions and measures to predict and address them early so that any damage to infrastructure or threats to lives will be minimised.
 
+---
 ## Solution
 To help SCDF and the government better prepare for and react to various threats posed by these extreme weather events, we propose our solution “Extinguish”. Our solution aims to predict flash floods and vegetation fire locations through use of  the IoT platform on IBM Cloud to collect weather data. Through the use of AI like IBM Watson and data analytics methods, predictions about vegetation fires and flash floods can be made. 
 
@@ -53,21 +55,24 @@ Extinguish’s reliability can be limited as it heavily depends on the accuracy 
 ---
 
 ## Getting Started
-# IoT
+### IoT
+
 In IBM Watson IoT Platform dashboard, select Apps (a), then Generate API Key (b). Kindly save the generated API key and Authentication token. Once lost you need to generate again.
 
 Select the IBM IoT App In node, in Authentication (a) select API Key. Then In the API Key, click on the pen (b), to create a new API key. Then enter the Device Id (c).
 Next enter the API Key (a) and API token (b) saved earlier. Click update and Deploy to save the settings.
 
 Select the IBM IoT App Out node, in the Authentication, select API Key, then in the API Key select the previously created API Key in IBM IoT App In node. Then key in the Device Id (b). Click update and Deploy to save the settings.
- 
-# IBM Watson and Jupyter Notebook
+
+ ---
+### IBM Watson and Jupyter Notebook
 1.Open Project in Watson Studio.
 
 2.View notebooks
 
 3.Find data files from data assets and Jupyter notebooks from notebooks under assets 
 
+---
 
 ## Platforms used to build solution
 IBM Cloud
