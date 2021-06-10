@@ -2,10 +2,10 @@
 Use of IoT and AI to predict flash floods and vegetation fires
 ---
 
-#Problem
+## Problem
 Due to global warming, climate change has become more rapid, causing a rising trend of vegetation fires and flash floods in Singapore. In 2019,there were 883 cases of vegetation fires and a significant number of cases of flash floods. As a result of the seriousness of this situation, there could potentially be a lot of damage caused to infrastructure and lives. Hence, to mitigate the impacts of these weather events, it will be helpful for SCDF to be better prepared for these emergencies by implementing solutions and measures to predict and address them early so that any damage to infrastructure or threats to lives will be minimised.
 
-#Solution
+## Solution
 To help SCDF and the government better prepare for and react to various threats posed by these extreme weather events, we propose our solution “Extinguish”. Our solution aims to predict flash floods and vegetation fire locations through use of  the IoT platform on IBM Cloud to collect weather data. Through the use of AI like IBM Watson and data analytics methods, predictions about vegetation fires and flash floods can be made. 
 
 Our solution “Extinguish” consists of:
