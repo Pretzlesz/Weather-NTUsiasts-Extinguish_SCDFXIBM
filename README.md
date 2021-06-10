@@ -17,7 +17,7 @@
 ## Problem Statement
 How might we leverage technology to better predict and prepare for the foreseeably higher frequency and greater severity of extreme weather events and natural disasters?
 
-
+---
 ## Problem
 
 Climate change has profound impacts on the environment, resulting in the rising trend of vegetation fires and flash floods in Singapore. In 2019,there were 761 cases of vegetation fires and 2 incidents of severe flash floods. Vegetation fires and flash floods can cause widespread and irreparable damage on the environment, infrastructure, and even our lives. Therefore, SCDF must evolve from traditional reactive measures, to predictive solutions in order to stop a fire or a flood before it happens. That is the only way to mitigate the harmful impacts of severe weather events on our environment and our livelihood. 
