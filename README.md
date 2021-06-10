@@ -79,9 +79,9 @@ Select the IBM IoT App Out node, in the Authentication, select API Key, then in 
 ### IBM Watson and Jupyter Notebook
 1.Open Project in Watson Studio.
 
-2.View notebooks
+2.Import notebooks to Watson Studio under assets and import data files under data assets
 
-3.Find data files from data assets and Jupyter notebooks from notebooks under assets 
+
 
 ## Live Demo
 https://github.com/Pretzlesz/Weather-NTUsiasts-Extinguish_SCDFXIBM/blob/main/Live%20demo.MOV.mp4
