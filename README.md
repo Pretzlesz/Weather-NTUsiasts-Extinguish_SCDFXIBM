@@ -15,7 +15,7 @@
 
 ---
 ## Problem Statement
-3. How might we leverage technology to better predict and prepare for the foreseeably higher frequency and greater severity of extreme weather events and natural disasters?
+How might we leverage technology to better predict and prepare for the foreseeably higher frequency and greater severity of extreme weather events and natural disasters?
 
 
 ## Problem
