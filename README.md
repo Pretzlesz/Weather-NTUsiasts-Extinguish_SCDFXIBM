@@ -20,8 +20,8 @@ This solution would help SCDF to optimize resources better. Through the implemen
 
 Extinguish’s reliability can be limited as it heavily depends on the accuracy and availability of data. However, this can be resolved by implementation of more IoT devices in hotspots and preprocessing the data.
 
-
-
+## Hyperlink of detailed solution
+https://docs.google.com/document/d/1yNR_p6dWVKf_hQl3nRReH02Lw2fBV8vpv2BMBddqBcA/edit
 
 
 ---
