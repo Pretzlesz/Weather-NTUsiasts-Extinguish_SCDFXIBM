@@ -9,7 +9,9 @@ Due to global warming, climate change has become more rapid, causing a rising tr
 To help SCDF and the government better prepare for and react to various threats posed by these extreme weather events, we propose our solution “Extinguish”. Our solution aims to predict flash floods and vegetation fire locations through use of  the IoT platform on IBM Cloud to collect weather data. Through the use of AI like IBM Watson and data analytics methods, predictions about vegetation fires and flash floods can be made. 
 
 Our solution “Extinguish” consists of:
+
 1.Use of IoT Platform on IBM cloud to collect weather data 
+
 2.Use of supervised machine learning models to predict extreme weather incidents like vegetation fires which are caused by hot and dry weather and flash floods which occur due to excessive rainfall. These could be done on IBM watson which has Jupyter notebooks to run our models and visualize our data. To train the machine learning model, we can make use of the weather data that is made available in government websites. 
 
 This solution would help SCDF to optimize resources better. Through the implementation of our solution, the SCDF would be able to pinpoint hotspots and detect any weather events in these areas early. With early detection, SCDF will be able to cut down on resources such as manpower and cost incurred into tackling the problem. Thus, these resources can be better allocated into other areas, which would help to improve SCDF’s overall efficiency. 
