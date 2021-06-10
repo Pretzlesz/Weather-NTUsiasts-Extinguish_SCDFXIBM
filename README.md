@@ -1,11 +1,26 @@
 # Weather-NTUsiasts-Extinguish_SCDFXIBM
-Use of IoT and AI to predict flash floods and vegetation fires
----
+### Use of IoT and AI to predict flash floods and vegetation fires
 
+---
+## Team Description
+
+**Hello, We are the Weather NTUsiasts!**
+| Role | Name |
+| ----------- | ----------- |
+| Leader | Pritika Nandakumar |
+| Designer | Sankpal Shibani Prashant |
+| Coder | Paramenswaran Varshini |
+| Engineer | Stanley Wong Qi Ren |
+| Researcher | Wong Ming Yuan Delvin |
+
+---
 ## Problem
+
 Climate change has profound impacts on the environment, resulting in the rising trend of vegetation fires and flash floods in Singapore. In 2019,there were 761 cases of vegetation fires and 2 incidents of severe flash floods. Vegetation fires and flash floods can cause widespread and irreparable damage on the environment, infrastructure, and even our lives. Therefore, SCDF must evolve from traditional reactive measures, to predictive solutions in order to stop a fire or a flood before it happens. That is the only way to mitigate the harmful impacts of severe weather events on our environment and our livelihood. 
 
+---
 ## Solution
+
 Our solution "Extinguish" aims to predict extreme weather events, allowing SCDF to take preventive or early detection measures. Through the use of the IoT platform on IBM cloud to collect weather data, together with AI (IBM Watson), and data analytics, this model aims to provide accurate predictions of flash flood and vegetation fire "high-risk zones".
 
 Our solution “Extinguish” consists of:
@@ -17,7 +32,8 @@ Our solution “Extinguish” consists of:
 This solution would help SCDF to optimize resources better. Through the implementation of our solution, the SCDF would be able to pinpoint "high-risk" zones and detect any weather events in these areas early. With early detection, SCDF will be able to cut down on resources such as manpower and cost incurred into tackling the problem. Thus, these resources can be better allocated into other areas, which would help to improve SCDF’s overall efficiency. 
 
 Further into the development pipeline, we aim to include the use of Unmanned Aerial Vehicles (UAVs) and computer vision to quickly and efficiently patrol "high-risk zones" to identify fire and smoke, or flooding chokepoints.
-
+---
+## Pitch Video
 
 
 
@@ -32,7 +48,7 @@ Further into the development pipeline, we aim to include the use of Unmanned Aer
 3. The processed data will be passed into both the **Data Analytics** software for *Data Visualisation* and the **Machine Learning Model** for *prediction of future extreme weather events*
 4. These results will then be fed into the **SCDF database** which can be accessed to better understand which periods of time will have the extreme weather events like *vegetation fires* and *flash floods* and they can be on standby to combat them
 ---
-
+## Hyperlink of Detailed Solution
 
 
 
@@ -55,7 +71,8 @@ Further into the development pipeline, we aim to include the use of Unmanned Aer
 ---
 
 ## Getting Started
-# IoT
+---
+### IoT
 In IBM Watson IoT Platform dashboard, select Apps (a), then Generate API Key (b). Kindly save the generated API key and Authentication token. Once lost you need to generate again.
 
 Select the IBM IoT App In node, in Authentication (a) select API Key. Then In the API Key, click on the pen (b), to create a new API key. Then enter the Device Id (c).
@@ -63,6 +80,7 @@ Next enter the API Key (a) and API token (b) saved earlier. Click update and Dep
 
 Select the IBM IoT App Out node, in the Authentication, select API Key, then in the API Key select the previously created API Key in IBM IoT App In node. Then key in the Device Id (b). Click update and Deploy to save the settings.
  
+ ---
 # IBM Watson and Jupyter Notebook
 1.Open Project in Watson Studio.
 
@@ -70,7 +88,7 @@ Select the IBM IoT App Out node, in the Authentication, select API Key, then in 
 
 3.Find data files from data assets and Jupyter notebooks from notebooks under assets 
 
-
+---
 ## Platforms used to build solution
 IBM Cloud
 
