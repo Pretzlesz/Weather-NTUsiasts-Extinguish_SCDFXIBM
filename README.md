@@ -1,6 +1,18 @@
 # Weather-NTUsiasts-Extinguish_SCDFXIBM
-Use of IoT and AI to predict flash floods and vegetation fires
+### Use of IoT and AI to predict flash floods and vegetation fires
+
 ---
+## Team Description
+
+**Hello, We are the Weather NTUsiasts!**
+| Role | Name |
+| ----------- | ----------- |
+| Leader | Pritika Nandakumar |
+| Designer | Sankpal Shibani Prashant |
+| Coder | Paramenswaran Varshini |
+| Engineer | Stanley Wong Qi Ren |
+| Researcher | Wong Ming Yuan Delvin |
+
 
 ## Problem
 
@@ -20,8 +32,9 @@ This solution would help SCDF to optimize resources better. Through the implemen
 
 Extinguish’s reliability can be limited as it heavily depends on the accuracy and availability of data. However, this can be resolved by implementation of more IoT devices in hotspots and preprocessing the data.
 
-## Hyperlink of detailed solution
-https://docs.google.com/document/d/1yNR_p6dWVKf_hQl3nRReH02Lw2fBV8vpv2BMBddqBcA/edit
+---
+## Pitch Video
+
 
 
 ---
@@ -31,11 +44,10 @@ https://docs.google.com/document/d/1yNR_p6dWVKf_hQl3nRReH02Lw2fBV8vpv2BMBddqBcA/
 2. The raw data collected will then be transferred and stored in **IBM Cloud** which will be organised and preprocessed
 3. The processed data will be passed into both the **Data Analytics** software for *Data Visualisation* and the **Machine Learning Model** for *prediction of future extreme weather events*
 4. These results will then be fed into the **SCDF database** which can be accessed to better understand which periods of time will have the extreme weather events like *vegetation fires* and *flash floods* and they can be on standby to combat them
+5. 
 ---
 
-
-
-
+## Link to Detailed Solution
 
 
 
