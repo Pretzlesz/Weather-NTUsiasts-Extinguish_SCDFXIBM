@@ -4,7 +4,7 @@
 ---
 ## Team Description
 
-Hello, We are the **Weather NTUsiasts!**
+Hello, We are the **Weather NTUsiasts**!
 | Role | Name |
 | ----------- | ----------- |
 | Leader | Pritika Nandakumar |
@@ -47,7 +47,7 @@ https://www.youtube.com/watch?v=pzz3_G-sQgc&ab_channel=DelvinWong
 
 
 ---
-## Architecture of Proposed Solution!
+## Architecture of Proposed Solution
 ![image](https://user-images.githubusercontent.com/70022847/121541541-fa868a80-ca39-11eb-9922-baeb800b9622.png)
 1. The **IoT Devices** such as *Rain Sensors* and *Temperature Sensors* will measure the relevant weather data like *humidity* and *temperature*
 2. The raw data collected will then be transferred and stored in **IBM Cloud** which will be organised and preprocessed
