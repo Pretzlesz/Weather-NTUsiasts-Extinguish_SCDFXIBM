@@ -50,3 +50,27 @@ Extinguish’s reliability can be limited as it heavily depends on the accuracy 
 ![image](https://user-images.githubusercontent.com/70022847/121058581-10563e80-c7f3-11eb-826b-192366df737c.png)
 ---
 
+## Getting Started
+# IoT
+In IBM Watson IoT Platform dashboard, select Apps (a), then Generate API Key (b). Kindly save the generated API key and Authentication token. Once lost you need to generate again.
+
+Select the IBM IoT App In node, in Authentication (a) select API Key. Then In the API Key, click on the pen (b), to create a new API key. Then enter the Device Id (c).
+Next enter the API Key (a) and API token (b) saved earlier. Click update and Deploy to save the settings.
+
+Select the IBM IoT App Out node, in the Authentication, select API Key, then in the API Key select the previously created API Key in IBM IoT App In node. Then key in the Device Id (b). Click update and Deploy to save the settings.
+ 
+# IBM Watson and Jupyter Notebook
+1.Open Project in Watson Studio.
+2.View notebooks
+3..Find data files from data assets and Jupyter notebooks from notebooks under assets 
+
+
+## Platforms used to build solution
+IBM Cloud
+IBM Watson Studio
+IBM Watson IoT Platform studio
+ 
+
+
+
+
