@@ -58,20 +58,6 @@ https://www.youtube.com/watch?v=pzz3_G-sQgc&ab_channel=DelvinWong
 https://docs.google.com/document/d/1yNR_p6dWVKf_hQl3nRReH02Lw2fBV8vpv2BMBddqBcA/edit
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 ## Product Roadmap
 ![image](https://user-images.githubusercontent.com/70022847/121058581-10563e80-c7f3-11eb-826b-192366df737c.png)
@@ -88,7 +74,7 @@ Next enter the API Key (a) and API token (b) saved earlier. Click update and Dep
 Select the IBM IoT App Out node, in the Authentication, select API Key, then in the API Key select the previously created API Key in IBM IoT App In node. Then key in the Device Id (b). Click update and Deploy to save the settings.
  
  ---
-# IBM Watson and Jupyter Notebook
+### IBM Watson and Jupyter Notebook
 1.Open Project in Watson Studio.
 
 2.View notebooks
@@ -102,6 +88,10 @@ IBM Cloud
 IBM Watson Studio
 
 IBM Watson IoT Platform studio
+
+Jupyter NoteBook
+
+Python
  
 
 
