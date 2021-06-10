@@ -82,7 +82,7 @@ Select the IBM IoT App Out node, in the Authentication, select API Key, then in 
 
 2.Import notebooks to Watson Studio under assets and import data files under data assets
 
-
+---
 
 ## Live Demo
 https://github.com/Pretzlesz/Weather-NTUsiasts-Extinguish_SCDFXIBM/blob/main/Live%20demo.MOV.mp4
