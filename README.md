@@ -61,13 +61,17 @@ Select the IBM IoT App Out node, in the Authentication, select API Key, then in 
  
 # IBM Watson and Jupyter Notebook
 1.Open Project in Watson Studio.
+
 2.View notebooks
-3..Find data files from data assets and Jupyter notebooks from notebooks under assets 
+
+3.Find data files from data assets and Jupyter notebooks from notebooks under assets 
 
 
 ## Platforms used to build solution
 IBM Cloud
+
 IBM Watson Studio
+
 IBM Watson IoT Platform studio
  
 
