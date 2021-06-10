@@ -34,6 +34,7 @@ Extinguish’s reliability can be limited as it heavily depends on the accuracy 
 
 ---
 ## Pitch Video
+https://www.youtube.com/watch?v=pzz3_G-sQgc&ab_channel=DelvinWong
 
 
 
@@ -48,6 +49,7 @@ Extinguish’s reliability can be limited as it heavily depends on the accuracy 
 ---
 
 ## Link to Detailed Solution
+https://docs.google.com/document/d/1yNR_p6dWVKf_hQl3nRReH02Lw2fBV8vpv2BMBddqBcA/edit
 
 
 
