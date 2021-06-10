@@ -83,6 +83,9 @@ Select the IBM IoT App Out node, in the Authentication, select API Key, then in 
 
 3.Find data files from data assets and Jupyter notebooks from notebooks under assets 
 
+## Live Demo
+https://github.com/Pretzlesz/Weather-NTUsiasts-Extinguish_SCDFXIBM/blob/main/Live%20demo.MOV.mp4
+
 ---
 ## Platforms used to build solution
 IBM Cloud
