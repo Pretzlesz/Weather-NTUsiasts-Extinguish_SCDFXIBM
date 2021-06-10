@@ -9,7 +9,7 @@
 | ----------- | ----------- |
 | Leader | Pritika Nandakumar |
 | Designer | Sankpal Shibani Prashant |
-| Coder | Paramenswaran Varshini |
+| Coder | Parameswaran Varshini |
 | Engineer | Stanley Wong Qi Ren |
 | Researcher | Wong Ming Yuan Delvin |
 
@@ -36,6 +36,7 @@ Our solution “Extinguish” consists of:
 This solution would help SCDF to optimize resources better. Through the implementation of our solution, the SCDF would be able to pinpoint "high-risk" zones and detect any weather events in these areas early. With early detection, SCDF will be able to cut down on resources such as manpower and cost incurred into tackling the problem. Thus, these resources can be better allocated into other areas, which would help to improve SCDF’s overall efficiency. 
 
 Further into the development pipeline, we aim to include the use of Unmanned Aerial Vehicles (UAVs) and computer vision to quickly and efficiently patrol "high-risk zones" to identify fire and smoke, or flooding chokepoints.
+
 ---
 ## Pitch Video
 https://www.youtube.com/watch?v=pzz3_G-sQgc&ab_channel=DelvinWong
