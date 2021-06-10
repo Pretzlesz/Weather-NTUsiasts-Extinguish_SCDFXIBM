@@ -4,7 +4,7 @@
 ---
 ## Team Description
 
-**Hello, We are the Weather NTUsiasts!**
+Hello, We are the **Weather NTUsiasts!**
 | Role | Name |
 | ----------- | ----------- |
 | Leader | Pritika Nandakumar |
